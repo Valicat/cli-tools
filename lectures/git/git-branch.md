@@ -42,7 +42,7 @@ To github.com:critmcdonald/myproject-christian.git
 
 ## Create a pull request
 
-* Since we just pushed a new branch, you might notice a yellow alert box that has a button where you can **Compare & pull requet**. If you have that, go ahead and click on it.
+* Since we just pushed a new branch, you might notice a yellow alert box that has a button where you can **Compare & pull request**. If you have that, go ahead and click on it.
 * If you didn't have that, you could click on the **Pull requests** tab at the top, and then choose a **New pull request**.
 
 This is what you get:
